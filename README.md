@@ -1,5 +1,5 @@
 
-:computer: Frontend Developer (and Backend-ish)
+:computer: Frontend Developer (and Backend-ish) <br>
 :colombia: Living in Colombia
 
 - 🔭 Looking for Frontend or FullStack Development opportunities!
